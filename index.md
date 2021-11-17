@@ -1,4 +1,4 @@
-# Selamat Datang di Website Haga!
+# Selamat Datang di Webpage Haga!
 
 There should be whitespace between paragraphs.
 
